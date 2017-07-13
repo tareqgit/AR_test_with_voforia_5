@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 51df12ab5fd4e5f4bb1dc908fd3191f5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefabNode: {fileID: 100002, guid: 333a1e4cbc3513e4fa9c2b6653812b3a, type: 2}
+  - prefabRoad: {fileID: 100000, guid: 1d73ebcb1179bd843bacb2013433f4ce, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
